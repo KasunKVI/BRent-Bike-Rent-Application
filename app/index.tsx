@@ -68,7 +68,7 @@ const Index: React.FC = () => {
               // onChangeText={setPassword}
             />
           </View>
-          <TouchableOpacity onPress={() => console.log('Forgot password pressed')}>
+          <TouchableOpacity onPress={() => router.push('/forgetPassword1')}>
             <Text style={[styles.forgetPassText, { color: forgetPasswordColor }]}>Forgot Password?</Text>
           </TouchableOpacity>
         </View>
@@ -83,11 +83,11 @@ const Index: React.FC = () => {
           </TouchableOpacity>
         </View>
 
-        <View style={styles.devider}>
-          <Text style={{color:textColor}}>----------------------------------------------</Text>
-          <Text style={{color:textColor}}> Or </Text>
-          <Text style={{color:textColor}}>----------------------------------------------</Text>
-        </View>
+        <View style={styles.divider}>
+      <View style={styles.line} />
+      <Text style={[styles.text, { color: textColor }]}> Or </Text>
+      <View style={styles.line} />
+    </View>
 
         <ThemedView style={styles.signupContainer}>
           <Text style={{ color: textColor }}>Don't have an account ?</Text>
@@ -172,10 +172,24 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     opacity: 0.3,
   },
-  devider: {
+  divider: {
     alignSelf: 'center',
     flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: 15,
   },
+  line: {
+    flex: 1,
+    height: 1,
+    backgroundColor: '#ccc',
+    marginHorizontal: 5,
+  },
+  text: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    paddingHorizontal: 10,
+  },
+
 });
 
 export default Index;
