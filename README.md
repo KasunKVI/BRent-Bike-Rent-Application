@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](assets/images/screenshots/loginPage.jpg)
+<img src="assets/images/screenshots/loginPage.jpg" alt="Login Screen" width="300" height="600">
 
 
 ## Get started
