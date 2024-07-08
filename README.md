@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](assets/images/screenshots/loginPage.jng)
+![Login Screen](BRent/assets/images/screenshots/loginPage.jng)
 
 
 ## Get started
