@@ -8,8 +8,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 <img src="assets/images/screenshots/loginPage.jpg" alt="Login Screen" width="300" height="600">
 
 
+### Signup Screen
+<img src="assets/images/screenshots/signUpPage.jpg" alt="Signup Screen" width="300" height="600">
 
-## Figma Link <a href="https://www.figma.com/design/xeqOQhSb0WaF1ABF1NzXaO/Bike_Rental_Mobile_App?node-id=0-1&t=5kRpqz5Z4g09i2HM-1">Figma</a>
+
+
+
+## Figma Link <a href="https://www.figma.com/design/xeqOQhSb0WaF1ABF1NzXaO/Bike_Rental_Mobile_App?node-id=0-1&t=5kRpqz5Z4g09i2HM-1">BRent</a>
 
 ## Get started
 
