@@ -4,13 +4,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## 📸 Screenshots
 
-### Login Screen
+### Login Screen and Signup Screen
+<p align="center">
 <img src="assets/images/screenshots/loginPage.jpg" alt="Login Screen" width="300" height="600">
 
-
-### Signup Screen
-<img src="assets/images/screenshots/signUpPage.jpg" alt="Signup Screen" width="300" height="600">
-
+<img src="assets/images/screenshots/signupPage.jpg" alt="Signup Screen" width="300" height="600">
+</p>
 
 
 
