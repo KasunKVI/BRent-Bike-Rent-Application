@@ -11,7 +11,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 <img src="assets/images/screenshots/signupPage.jpg" alt="Signup Screen" width="300" height="600">
 </p>
 
+### Forget Password Screens
+<p align="center">
+<img src="assets/images/screenshots/forget_password_page.jpg" alt="Forget Password Screen" width="300" height="600">
 
+<img src="assets/images/screenshots/verification_code_page.jpg" alt="Verofication Screen" width="300" height="600">
+</p>
 
 ## Figma Link <a href="https://www.figma.com/design/xeqOQhSb0WaF1ABF1NzXaO/Bike_Rental_Mobile_App?node-id=0-1&t=5kRpqz5Z4g09i2HM-1">BRent</a>
 
